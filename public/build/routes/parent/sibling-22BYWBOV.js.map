@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["browser-route-module:/Users/sarafathullas/Development/Remix/remix-test/app/routes/parent/sibling.tsx?browser", "../../../../app/routes/parent/sibling.tsx"],
+  "sourcesContent": ["export { default } from \"/Users/sarafathullas/Development/Remix/remix-test/app/routes/parent/sibling.tsx\";", "export default function () {\n  return <div>Sibling</div>;\n}\n"],
+  "mappings": ";;;;;;AAAA;;;ACAA;AAAe,2BAAY;AACzB,SAAO,oCAAC,OAAD,MAAK;AAAA;",
+  "names": []
+}

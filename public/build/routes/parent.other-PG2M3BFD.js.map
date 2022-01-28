@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["browser-route-module:/Users/sarafathullas/Development/Remix/remix-test/app/routes/parent.other.tsx?browser", "../../../app/routes/parent.other.tsx"],
+  "sourcesContent": ["export { default } from \"/Users/sarafathullas/Development/Remix/remix-test/app/routes/parent.other.tsx\";", "export default function () {\n  return <div>Other</div>;\n}\n"],
+  "mappings": ";;;;;;AAAA;;;ACAA;AAAe,gCAAY;AACzB,SAAO,oCAAC,OAAD,MAAK;AAAA;",
+  "names": []
+}

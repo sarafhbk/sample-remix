@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["browser-route-module:/Users/sarafathullas/Development/Remix/remix-test/app/routes/parent.tsx?browser"],
+  "sourcesContent": ["export * from \"/Users/sarafathullas/Development/Remix/remix-test/app/routes/parent.tsx\";"],
+  "mappings": ";;;;;AAAA;",
+  "names": []
+}

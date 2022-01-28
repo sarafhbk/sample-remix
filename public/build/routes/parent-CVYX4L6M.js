@@ -1,0 +1,1 @@
+import{f as t}from"/build/_shared/chunk-FBJ7M2KA.js";import{e,f as r}from"/build/_shared/chunk-AKSB5QXU.js";r();r();function i(){return e.createElement("div",null,e.createElement("h1",null,"This is Parent Header"),e.createElement(t.Outlet,null))}export{i as default};

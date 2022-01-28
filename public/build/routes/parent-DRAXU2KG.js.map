@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["browser-route-module:/Users/sarafathullas/Development/Remix/remix-test/app/routes/parent.tsx?browser", "../../../app/routes/parent.tsx"],
+  "sourcesContent": ["export { default } from \"/Users/sarafathullas/Development/Remix/remix-test/app/routes/parent.tsx\";", "import { Outlet } from \"remix\";\n\nexport default function () {\n  return (\n    <div>\n      <h1>This is Parent Header</h1>\n      <Outlet />\n    </div>\n  );\n}\n"],
+  "mappings": ";;;;;;;;;AAAA;;;ACAA;AAEe,0BAAY;AACzB,SACE,oCAAC,OAAD,MACE,oCAAC,MAAD,MAAI,0BACJ,oCAAC,gCAAD;AAAA;",
+  "names": []
+}
